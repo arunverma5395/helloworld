@@ -1,3 +1,4 @@
-import pandas as pd
-import flask as f
-print('abc')
+j=2
+for i in range(10):
+    j=j+i
+    print(i,j)
