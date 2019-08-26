@@ -1,3 +1,5 @@
+Below are steps for Face Recognition Code configuration
+-----------------------------
 run feature extraction
 pip3 install -r requirements.txt
 
